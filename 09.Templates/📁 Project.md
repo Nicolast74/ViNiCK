@@ -1,5 +1,3 @@
-<% tp.file.rename("📁 Project - " + tp.prompt("Project Name")) %>
-
 # 📁 Project: <% tp.file.title.replace("📁 Project - ", "") %>
 
 ## 🎯 Goal

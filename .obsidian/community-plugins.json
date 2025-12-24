@@ -5,5 +5,7 @@
   "file-tree-alternative",
   "homepage",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-textgenerator-plugin",
+  "obsidian-git"
 ]

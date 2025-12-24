@@ -1,12 +1,13 @@
 
 # 📚 Study: 
-
+IoT Pertemuan 10
 
 ## 🎯 Apa yang Dipelajari
-- Belajar Apa nih?
+- Studi kasus Smart Traffic
 
 ## 📝 Catatan Inti
-- Isi Disini
+- Studi Kasus Smart Traffic
+- 
 
 ## 🧩 Contoh / Rumus / Kode
 - kalau ada rumus atau code kasih sini aja

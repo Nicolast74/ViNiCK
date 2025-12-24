@@ -4,7 +4,7 @@
 ============================================
 
 ### 🔥 HIGH PRIORITY
-- [ ] UTS Bahasa
+- [x] UTS Bahasa ✅ 2025-11-25
 
 ### ✨ MEDIUM PRIORITY
 - [ ] UTS Big Data
@@ -13,5 +13,5 @@
 
 ### 🍃 LOW PRIORITY
 - [ ] Game LoL
-- [ ] UTS entrepreneur
+- [x] UTS entrepreneur ✅ 2025-11-25
 - [ ] Project Ignia_CLI

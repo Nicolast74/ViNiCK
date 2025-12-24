@@ -6,14 +6,19 @@
 
 ### 🧩 Weekly Goals
 - [ ] Selesaikan UTS
-- [ ] Olahraga 3 kali
-- [ ] Persiapkan untuk pelantikan AMCC 🛫 2025-11-21 📅 2025-11-22
-- [ ] Cari tempat untuk AMCC berbagi
-- [ ] Redaksi ke group AMCC 2024/2025 terkait AMCC berbagi
-- [x] Redaksi ke humas ✅ 2025-11-20
+- [x] Olahraga 3 kali ✅ 2025-11-25
+- [x] Persiapkan untuk pelantikan AMCC 🛫 2025-11-21 📅 2025-11-22 ✅ 2025-11-25
+- [x] Cari tempat untuk AMCC berbagi ✅ 2025-11-25
+- [x] Redaksi ke group AMCC 2024/2025 terkait AMCC berbagi ✅ 2025-11-25
+- [x] Redaksi ke humas ✅ 2025-11-25
 
 ### 📌 Tasks
-- [ ]
+- [ ] UTS BIG data
+- [x] UTS Bahasa ✅ 2025-11-25
+- [x] UTS Digipreneur ✅ 2025-11-20
+- [ ] UTS IoT
+- [x] UTS AI Lanjut ✅ 2025-11-25
+- [x] UTS E-Commerce ✅ 2025-11-25
 
 ### 🧷 Might-Do (opsional)
 - [ ] Start Project baru
