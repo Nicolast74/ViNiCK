@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Daily Logs/🗓️ Daily - 2026-01-05.md",
+                "file": "03. Projects/Active/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ Daily - 2026-01-05"
+              "title": "Untitled"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,8 +213,9 @@
   },
   "active": "5e9e26f067835374",
   "lastOpenFiles": [
-    "07. Personal/Journal/Suicide note.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-05.md",
+    "03. Projects/Active/Untitled.md",
+    "07. Personal/Journal/Suicide note.md",
     "07. Personal/Journal/Journal 1.md",
     "09.Templates/🗓️ Daily Notes.md",
     "01. Daily Logs/🗓️ Daily - 2025-12-29.md",
@@ -231,7 +231,6 @@
     "01. Daily Logs/🗓️ Daily - 2025-12-01.md",
     "01. Daily Logs/🗓️ Daily - 2025-11-26.md",
     "01. Daily Logs/2025-12-01.md",
-    "03. Projects/Active/Untitled.md",
     "09.Templates/💼 Work.md",
     "06. Study/Materi Kuliah/Untitled 1.md",
     "02. Tasks/Today.md",
