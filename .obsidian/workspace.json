@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-01-07"
             }
+          },
+          {
+            "id": "25bc814a2d5a6536",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,18 +234,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b675cbdcfa88c56",
+  "active": "25bc814a2d5a6536",
   "lastOpenFiles": [
-    "README.md",
     "01. Daily Logs/2026-01-07.md",
-    "06. Study/Materi Kuliah/UAS Bahasa.md",
-    "01. Daily Logs/🗓️ Daily - 2026-01-07.md",
-    "03. Projects/Active/Untitled.md",
+    "01. Daily Logs/🗓️ Daily - 2025-12-29.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-05.md",
+    "01. Daily Logs/🗓️ Daily - 2026-01-07.md",
+    "README.md",
+    "06. Study/Materi Kuliah/UAS Bahasa.md",
+    "03. Projects/Active/Untitled.md",
     "07. Personal/Journal/Suicide note.md",
     "07. Personal/Journal/Journal 1.md",
     "09.Templates/🗓️ Daily Notes.md",
-    "01. Daily Logs/🗓️ Daily - 2025-12-29.md",
     "01. Daily Logs/2025-12-08.md",
     "01. Daily Logs/🗓️ Daily - 2025-12-17.md",
     "01. Daily Logs/🗓️ Daily - 2025-12-24.md",
