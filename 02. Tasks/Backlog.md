@@ -5,11 +5,11 @@
 =================================================
 
 ### 📚 Major Tasks / Big Items
-- [ ] UTS bahasa
-- [ ] UTS Entrepreneur
-- [ ] UTS IoT
-- [ ] UTS AI lanjut
-- [ ] UTS Big Data 2
+- [x] UTS bahasa ✅ 2026-01-26
+- [x] UTS Entrepreneur ✅ 2026-01-26
+- [x] UTS IoT ✅ 2026-01-26
+- [x] UTS AI lanjut ✅ 2026-01-26
+- [x] UTS Big Data 2 ✅ 2026-01-26
 - [x] UTS Digipreneur ✅ 2025-11-21
 
 ### 📝 Small Tasks

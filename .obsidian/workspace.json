@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a41df0de43dffd5b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "871d327449ea0b77",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "02. Tasks/Today.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Today"
             }
           }
         ]
@@ -82,8 +84,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,9 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "871d327449ea0b77",
   "lastOpenFiles": [
-    "01. Daily Logs/2026-01-26.md",
+    "02. Tasks/This Week.md",
+    "02. Tasks/Backlog.md",
+    "01. Daily Logs/🗓️ Daily - 2026-01-26.md",
     "06. Study/Materi Kuliah/Big Data/Big Data 12.md",
     "06. Study/Materi Kuliah/Big Data",
     "06. Study/Materi Kuliah/UAS Bahasa.md",
@@ -246,8 +249,6 @@
     "01. Daily Logs/🗓️ Daily - 2025-12-01.md",
     "01. Daily Logs/🗓️ Daily - 2025-11-26.md",
     "01. Daily Logs/2025-12-01.md",
-    "09.Templates/💼 Work.md",
-    "06. Study/Materi Kuliah/Untitled 1.md",
     "01. Daily Logs/2025",
     "09.Templates",
     "08. Archieve/Misc",

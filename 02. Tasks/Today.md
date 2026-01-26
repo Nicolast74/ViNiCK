@@ -7,9 +7,9 @@
 - [x] UTS Bahasa ✅ 2025-11-25
 
 ### ✨ MEDIUM PRIORITY
-- [ ] UTS Big Data
-- [ ] UTS IoT
-- [x] UTS DigiPreneur ✅ 2025-11-20
+- [ ] UAS Bahasa
+- [ ] UAS E-commerce
+- [ ] UAS DigiPreneur
 
 ### 🍃 LOW PRIORITY
 - [ ] Game LoL
