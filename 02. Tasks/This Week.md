@@ -21,10 +21,10 @@
 - [x] UTS E-Commerce ✅ 2025-11-25
 - [x] UAS Bahasa ✅ 2026-01-28
 - [ ] UAS IoT
-- [ ] UAS Big Data & Predictive Analytics Lanjut
+- [x] UAS Big Data & Predictive Analytics Lanjut ✅ 2026-01-28
 - [ ] UAS E-commerce
 - [ ] UAS Digipreneur
-- [ ] UAS AI Lanjut
+- [ ] UAS AI Lanjut (canceled)
 
 ### 🧷 Might-Do (opsional)
 - [ ] Start Project baru
