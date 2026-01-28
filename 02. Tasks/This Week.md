@@ -19,7 +19,7 @@
 - [x] UTS IoT ✅ 2025-11-25
 - [x] UTS AI Lanjut ✅ 2025-11-25
 - [x] UTS E-Commerce ✅ 2025-11-25
-- [ ] UAS Bahasa
+- [x] UAS Bahasa ✅ 2026-01-28
 - [ ] UAS IoT
 - [ ] UAS Big Data & Predictive Analytics Lanjut
 - [ ] UAS E-commerce

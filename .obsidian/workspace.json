@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Daily Logs/🗓️ Daily - 2026-01-28.md",
+                "file": "02. Tasks/This Week.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ Daily - 2026-01-28"
+              "title": "This Week"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,9 +222,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. Tasks/Today.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-28.md",
     "02. Tasks/This Week.md",
-    "02. Tasks/Today.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-27.md",
     "02. Tasks/Backlog.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-26.md",

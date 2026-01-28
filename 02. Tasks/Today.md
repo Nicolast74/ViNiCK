@@ -7,7 +7,7 @@
 - [x] UTS Bahasa ✅ 2025-11-25
 
 ### ✨ MEDIUM PRIORITY
-- [ ] UAS Bahasa
+- [x] UAS Bahasa ✅ 2026-01-28
 - [ ] UAS E-commerce
 - [ ] UAS DigiPreneur
 
