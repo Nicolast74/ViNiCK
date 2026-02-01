@@ -84,8 +84,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1b675cbdcfa88c56",
   "lastOpenFiles": [
     "01. Daily Logs/🗓️ Daily - 2026-02-01.md",
     "02. Tasks/This Week.md",
