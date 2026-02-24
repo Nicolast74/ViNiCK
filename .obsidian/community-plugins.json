@@ -8,5 +8,6 @@
   "obsidian-kanban",
   "obsidian-textgenerator-plugin",
   "obsidian-git",
-  "gemini-scribe"
+  "gemini-scribe",
+  "obsidian-discordrpc"
 ]

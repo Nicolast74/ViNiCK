@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Study/Studi Mandiri/DevOps/Untitled.md",
+                "file": "06. Study/Studi Mandiri/Cyber Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Cyber Security"
             }
           }
         ]
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -241,16 +241,23 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1b675cbdcfa88c56",
   "lastOpenFiles": [
+    "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground/Project 2",
+    "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground/Project 1",
+    "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground/Architecture Notes",
+    "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground",
+    "06. Study/Studi Mandiri/DevOps/09 - Kubernetes/YAML Examples",
+    "06. Study/Studi Mandiri/DevOps/09 - Kubernetes/Materi",
+    "06. Study/Studi Mandiri/DevOps/09 - Kubernetes/Debugging",
+    "06. Study/Studi Mandiri/DevOps/09 - Kubernetes",
+    "06. Study/Studi Mandiri/DevOps/08 - IaC/Terraform",
+    "06. Study/Studi Mandiri/DevOps/08 - IaC/Concepts",
+    "06. Study/Studi Mandiri/DevOps/08 - IaC",
+    "06. Study/Studi Mandiri/DevOps/Untitled.md",
     "gemini-scribe/Agent-Sessions/DevOps Learning Template.md",
     "06. Study/Studi Mandiri/Cyber Security.md",
-    "06. Study/Studi Mandiri/DevOps/Untitled.md",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Prompts",
-    "gemini-scribe",
-    "06. Study/Studi Mandiri/DevOps",
     "01. Daily Logs/2026-02-24.md",
     "01. Daily Logs/🗓️ Daily - 2026-02-03.md",
     "01. Daily Logs/🗓️ Daily - 2026-02-01.md",
@@ -261,7 +268,6 @@
     "02. Tasks/Backlog.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-26.md",
     "06. Study/Materi Kuliah/Big Data/Big Data 12.md",
-    "06. Study/Materi Kuliah/Big Data",
     "06. Study/Materi Kuliah/UAS Bahasa.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-07.md",
     "01. Daily Logs/2026-01-07.md",
@@ -273,12 +279,6 @@
     "07. Personal/Journal/Journal 1.md",
     "09.Templates/🗓️ Daily Notes.md",
     "01. Daily Logs/2025-12-08.md",
-    "01. Daily Logs/🗓️ Daily - 2025-12-17.md",
-    "01. Daily Logs/2025",
-    "09.Templates",
-    "08. Archieve/Misc",
-    "08. Archieve/Finished Notes",
-    "08. Archieve/Old Projects",
     "Untitled.canvas"
   ]
 }
