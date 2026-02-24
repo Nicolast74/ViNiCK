@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Study/Studi Mandiri/DevOps/00 - Roadmap/4️⃣ 🚀 Milestones.md",
+                "file": "06. Study/Studi Mandiri/DevOps/00 - Roadmap/1️⃣ 🎯 DevOps Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4️⃣ 🚀 Milestones"
+              "title": "1️⃣ 🎯 DevOps Vision"
             }
           }
         ]
@@ -241,8 +241,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1b675cbdcfa88c56",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/2️⃣ 🗺 Learning Path.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/1️⃣ 🎯 DevOps Vision.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/4️⃣ 🚀 Milestones.md",
     "06. Study/Studi Mandiri/DevOps/02 - Linux",
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/99 - Foundation Checklist.md",
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/00 - DevOps Concept/CI-CD Overview.md",
@@ -257,13 +260,9 @@
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/02 - Git Basics/Materi",
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/02 - Git Basics",
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/01 - Linux Basics/Troubleshooting",
-    "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/01 - Linux Basics/Praktik",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/5️⃣ 🧪 Project Plan.md",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/6️⃣ 📅 Weekly Plan.md",
-    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/4️⃣ 🚀 Milestones.md",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/3️⃣ 📊 Skill Matrix.md",
-    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/2️⃣ 🗺 Learning Path.md",
-    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/1️⃣ 🎯 DevOps Vision.md",
     "09.Templates/📜 Materi.md",
     "09.Templates/🔎 Troubleshooting - {{Judul Error}}.md",
     "09.Templates/🔬 Praktik.md",
