@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Study/Studi Mandiri/Cyber Security.md",
+                "file": "09.Templates/Troubleshooting - {{Judul Error}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber Security"
+              "title": "Troubleshooting - {{Judul Error}}"
             }
           }
         ]
@@ -241,8 +241,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1b675cbdcfa88c56",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "09.Templates/🔬 Praktik.md",
+    "09.Templates/🗓️ Daily Notes.md",
+    "09.Templates/Troubleshooting - {{Judul Error}}.md",
+    "Link ke materi terkait.md",
+    "09.Templates/📜 Materi.md",
+    "09.Templates/📚 Study.md",
+    "06. Study/Studi Mandiri/Cyber Security.md",
     "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground/Project 2",
     "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground/Project 1",
     "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground/Architecture Notes",
@@ -253,10 +260,8 @@
     "06. Study/Studi Mandiri/DevOps/09 - Kubernetes",
     "06. Study/Studi Mandiri/DevOps/08 - IaC/Terraform",
     "06. Study/Studi Mandiri/DevOps/08 - IaC/Concepts",
-    "06. Study/Studi Mandiri/DevOps/08 - IaC",
     "06. Study/Studi Mandiri/DevOps/Untitled.md",
     "gemini-scribe/Agent-Sessions/DevOps Learning Template.md",
-    "06. Study/Studi Mandiri/Cyber Security.md",
     "gemini-scribe/Prompts/example-expert.md",
     "01. Daily Logs/2026-02-24.md",
     "01. Daily Logs/🗓️ Daily - 2026-02-03.md",
@@ -274,11 +279,6 @@
     "01. Daily Logs/🗓️ Daily - 2025-12-29.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-05.md",
     "README.md",
-    "03. Projects/Active/Untitled.md",
-    "07. Personal/Journal/Suicide note.md",
-    "07. Personal/Journal/Journal 1.md",
-    "09.Templates/🗓️ Daily Notes.md",
-    "01. Daily Logs/2025-12-08.md",
     "Untitled.canvas"
   ]
 }

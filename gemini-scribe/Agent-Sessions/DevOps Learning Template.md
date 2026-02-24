@@ -3,7 +3,7 @@ session_id: session_1771934938945_a0z92nzpi
 type: agent-session
 title: DevOps Learning Template
 context_files:
-  - "[[Untitled]]"
+  - "[[📜 Materi]]"
 enabled_tools:
   - read_only
   - vault_ops
