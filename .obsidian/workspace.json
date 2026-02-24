@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Daily Logs/🗓️ Daily - 2026-02-03.md",
+                "file": "06. Study/Studi Mandiri/Cyber Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗓️ Daily - 2026-02-03"
+              "title": "Cyber Security"
             }
           }
         ]
@@ -83,9 +83,18 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "66d63937cd96801f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +191,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -205,8 +214,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,11 +225,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01. Daily Logs/2026-02-24.md",
     "01. Daily Logs/🗓️ Daily - 2026-02-03.md",
     "01. Daily Logs/🗓️ Daily - 2026-02-01.md",
     "02. Tasks/This Week.md",
@@ -249,7 +259,6 @@
     "06. Study/Studi Mandiri/Cyber Security.md",
     "09.Templates/📚 Study.md",
     "06. Study/Materi Kuliah/IoT.md",
-    "01. Daily Logs/🗓️ Daily - 2025-12-10.md",
     "01. Daily Logs/2025",
     "09.Templates",
     "08. Archieve/Misc",
