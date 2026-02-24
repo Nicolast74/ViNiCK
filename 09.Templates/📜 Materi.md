@@ -30,8 +30,8 @@ Penjelasan:
 
 ## 💻 Contoh Command / Konfigurasi
 
-```
-bash
+```bash
+
 ```
 ---
 

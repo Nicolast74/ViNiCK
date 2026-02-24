@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09.Templates/🔎 Troubleshooting - {{Judul Error}}.md",
+                "file": "06. Study/Studi Mandiri/DevOps/00 - Roadmap/6️⃣ 📅 Weekly Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔎 Troubleshooting - {{Judul Error}}"
+              "title": "6️⃣ 📅 Weekly Plan"
             }
           }
         ]
@@ -241,13 +241,19 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "4cb43673dc49a02d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/5️⃣ 🧪 Project Plan.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/4️⃣ 🚀 Milestones.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/3️⃣ 📊 Skill Matrix.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/2️⃣ 🗺 Learning Path.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/1️⃣ 🎯 DevOps Vision.md",
+    "06. Study/Studi Mandiri/DevOps/00 - Roadmap/6️⃣ 📅 Weekly Plan.md",
+    "09.Templates/📜 Materi.md",
+    "09.Templates/🔎 Troubleshooting - {{Judul Error}}.md",
     "09.Templates/🔬 Praktik.md",
     "09.Templates/🗓️ Daily Notes.md",
-    "09.Templates/🔎 Troubleshooting - {{Judul Error}}.md",
     "Link ke materi terkait.md",
-    "09.Templates/📜 Materi.md",
     "09.Templates/📚 Study.md",
     "06. Study/Studi Mandiri/Cyber Security.md",
     "06. Study/Studi Mandiri/DevOps/99 - DevOps Playground/Project 2",
@@ -273,12 +279,6 @@
     "02. Tasks/Backlog.md",
     "01. Daily Logs/🗓️ Daily - 2026-01-26.md",
     "06. Study/Materi Kuliah/Big Data/Big Data 12.md",
-    "06. Study/Materi Kuliah/UAS Bahasa.md",
-    "01. Daily Logs/🗓️ Daily - 2026-01-07.md",
-    "01. Daily Logs/2026-01-07.md",
-    "01. Daily Logs/🗓️ Daily - 2025-12-29.md",
-    "01. Daily Logs/🗓️ Daily - 2026-01-05.md",
-    "README.md",
     "Untitled.canvas"
   ]
 }
