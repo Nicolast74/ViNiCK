@@ -30,7 +30,7 @@
   "lastSeenVersion": "4.4.0",
   "ragIndexing": {
     "enabled": true,
-    "fileSearchStoreName": null,
+    "fileSearchStoreName": "fileSearchStores/obsidianvinick-ey58oupa354m",
     "excludeFolders": [],
     "autoSync": true,
     "includeAttachments": false

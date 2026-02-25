@@ -8,7 +8,7 @@
 ## Career goal
     Y E S
 ## Target salary (realistic)
-   8k Rupiah / month 
+   8m Rupiah / month 
 ## Skill positioning
     Y E S
 ## Portfolio goal
