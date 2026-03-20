@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Study/Studi Mandiri/DevOps/00 - Roadmap/1️⃣ 🎯 DevOps Vision.md",
+                "file": "01. Daily Logs/🗓️ Daily - 2026-03-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1️⃣ 🎯 DevOps Vision"
+              "title": "🗓️ Daily - 2026-03-20"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -243,8 +244,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "gemini-scribe/rag-index-cache.json",
+    "01. Daily Logs/🗓️ Daily - 2026-03-20.md",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/1️⃣ 🎯 DevOps Vision.md",
+    "gemini-scribe/rag-index-cache.json",
     "01. Daily Logs/🗓️ Daily - 2026-02-25.md",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/2️⃣ 🗺 Learning Path.md",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/4️⃣ 🚀 Milestones.md",
@@ -261,7 +263,6 @@
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/02 - Git Basics/Praktik",
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/02 - Git Basics/Materi",
     "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/02 - Git Basics",
-    "06. Study/Studi Mandiri/DevOps/01 - Fundamentals/01 - Linux Basics/Troubleshooting",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/5️⃣ 🧪 Project Plan.md",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/6️⃣ 📅 Weekly Plan.md",
     "06. Study/Studi Mandiri/DevOps/00 - Roadmap/3️⃣ 📊 Skill Matrix.md",
